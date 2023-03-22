@@ -28,8 +28,5 @@
     "url": "https://github.com/learn-co-curriculum/react-hooks-npm-lab/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/react-hooks-npm-lab#readme",
-  "keywords": [],
-  "dependencies": {
-    "jest": "^29.5.0"
-  }
+  "keywords": []
 }
